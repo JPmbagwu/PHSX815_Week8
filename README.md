@@ -4,7 +4,7 @@ These programs are available in this repository:
 
 * Neyman_Construction.py
 
-* MCIntegrate_Python.py [Python].
+* Numerical_Minimization.py.
 
 # Usage
 
@@ -18,13 +18,13 @@ The usage of these separate plotting libraries necessitates independent download
 They python files 
 
 * Neyman_Construction.py
-* MCIntegrate_Python.py
+* Numerical_Minimization.py
 
 can be run from the Command/Terminal line by typing:
 
 `<> python Neyman_Construction.py `
 
-`<> python MCIntegrate_Python.py `
+`<> python Numerical_Minimization.py `
 
-This requires a working Python distribution (so that the python executable exists) with the Python packages numpy, sympy, seed, scipy.integrate and Matplotlib also installed.
+This requires a working Python distribution (so that the python executable exists) with the Python packages numpy, sympy, seed, scipy.minimize and Matplotlib also installed.
 
